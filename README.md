@@ -1,5 +1,6 @@
-prince_cipher
+prince_cipher by Aria
 =============
+
 
 PRINCE: A Low-latency Block Cipher for Pervasive Computing Applications
 
